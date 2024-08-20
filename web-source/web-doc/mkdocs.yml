@@ -1,0 +1,16 @@
+site_name: Отчет по практической работе
+
+theme:
+  name: material
+
+nav:
+  - Документация как Код:
+      - Описание подхода: '.\Description of the approach.md'
+      - Практическая часть: '.\The practical part.md'
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
