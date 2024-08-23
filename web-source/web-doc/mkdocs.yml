@@ -1,5 +1,10 @@
 site_name: Отчет по практической работе
+site_description: Практическая работа с применением инструментов концепции "Документация как Код".
+site_author: Vasilnyak Nikita
+repo_url: https://github.com/NikitaVasil/report_docs-as-code
 
+# theme:
+#   name: material
 theme:
   name: material
 
@@ -14,3 +19,5 @@ markdown_extensions:
   - md_in_html
   - admonition
   - footnotes
+
+copyright: Copyright &copy; 2024 <a href="https://t.me/nikita_vasilnyak">Nikita Vasilnyak</a>.
