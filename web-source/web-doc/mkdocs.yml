@@ -10,8 +10,8 @@ theme:
 
 nav:
   - Документация как Код:
-      - Описание подхода: '.\\docs\\Description%20of%20the%20approach.md'
-      - Практическая часть: '.\\docs\\The%20practical%20part.md'
+      - Описание подхода: '.\\docs\\Description%20of%20the%20approach'
+      - Практическая часть: '.\\docs\\The%20practical%20part'
 
 markdown_extensions:
   - abbr
