@@ -49,3 +49,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 #https://thomasthornton.cloud/2024/05/01/deploying-mkdocs-to-github-pages-with-github-actions/
+#https://dev.to/brysontyrrell/building-project-docs-for-github-pages-1k0c
