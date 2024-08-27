@@ -9,9 +9,10 @@ theme:
   name: material
 
 nav:
+  - Главная страница: index.md
   - Документация как Код:
-      - Описание подхода: Description of the approach
-      - Практическая часть: The practical part
+      - Описание подхода: docs/Description of the approach.md
+      - Практическая часть: docs/The practical part.md
 
 markdown_extensions:
   - abbr
