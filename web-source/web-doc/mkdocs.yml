@@ -10,8 +10,8 @@ theme:
 
 nav:
   - Документация как Код:
-      - Описание подхода: Description of the approach.md
-      - Практическая часть: The practical part.md
+      - Описание подхода: Description of the approach
+      - Практическая часть: The practical part
 
 markdown_extensions:
   - abbr
