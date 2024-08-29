@@ -1,10 +1,8 @@
-site_name: Отчет по практической работе
+site_name: Отчет по практике
 site_description: Практическая работа с применением инструментов концепции "Документация как Код".
 site_author: Vasilnyak Nikita
 repo_url: https://github.com/NikitaVasil/report_docs-as-code
 
-# theme:
-#   name: material
 theme:
   name: material
 
